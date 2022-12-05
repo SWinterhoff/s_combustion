@@ -3,6 +3,7 @@
 
 data/
 .vscode/
+output.xlsx
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
